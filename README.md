@@ -72,7 +72,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 
-Name: MOHAMED ATHIL
+Name: MOHAMED ATHIL B
 
 Reg no: 212222230081
 ```
